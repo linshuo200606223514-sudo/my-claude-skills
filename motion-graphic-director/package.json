@@ -1,0 +1,34 @@
+{
+  "name": "motion-graphic-director-skill",
+  "version": "1.0.0",
+  "description": "Creative direction and design intelligence skill for AI coding assistants — makes agents think like motion graphic directors before generating Remotion videos",
+  "keywords": [
+    "agent-skills",
+    "ai-agent",
+    "motion-graphics",
+    "remotion",
+    "video-production",
+    "creative-direction",
+    "design",
+    "opencode",
+    "claude-code"
+  ],
+  "author": "Rohan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaizeCobra/motion-graphic-director-skill"
+  },
+  "homepage": "https://github.com/MaizeCobra/motion-graphic-director-skill#readme",
+  "bugs": {
+    "url": "https://github.com/MaizeCobra/motion-graphic-director-skill/issues"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "examples/",
+    "references/",
+    "scripts/"
+  ]
+}
